@@ -77,12 +77,9 @@ See each skill's **Related Skills** section for the full dependency map.
 | Skill | Description |
 |-------|-------------|
 | [ab-testing](skills/ab-testing/) | When the user wants to plan, design, or implement an A/B test or experiment, or build a growth experimentation program.... |
-| [ad-creative](skills/ad-creative/) | When the user wants to generate, iterate, or scale ad creative — headlines, descriptions, primary text, or full ad... |
-| [ads](skills/ads/) | When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X,... |
 | [ai-seo](skills/ai-seo/) | When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers.... |
 | [analytics](skills/analytics/) | When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions... |
 | [aso](skills/aso/) | When the user wants to audit or optimize an App Store or Google Play listing. Also use when the user mentions 'ASO... |
-| [attribution](skills/attribution/) | When the user wants to figure out which marketing actually drives conversions and revenue, choose or interpret an... |
 | [churn-prevention](skills/churn-prevention/) | When the user wants to reduce churn, build cancellation flows, set up save offers, recover failed payments, or... |
 | [co-marketing](skills/co-marketing/) | When the user wants to find co-marketing partners, plan joint campaigns, or brainstorm partnership opportunities. Use... |
 | [cold-email](skills/cold-email/) | Write and run B2B cold outbound that gets replies, from cold emails and follow-ups to sending setup, LinkedIn,... |
@@ -90,7 +87,6 @@ See each skill's **Related Skills** section for the full dependency map.
 | [competitor-profiling](skills/competitor-profiling/) | When the user wants to research, profile, or analyze competitors from their URLs. Also use when the user mentions... |
 | [competitors](skills/competitors/) | When the user wants to create competitor comparison or alternative pages for SEO and buyer-facing use. Also use when... |
 | [content-strategy](skills/content-strategy/) | When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also... |
-| [conversion-tracking](skills/conversion-tracking/) | Set up, audit, verify, or fix website conversion tracking. Use when the conversion is a form submission, booked... |
 | [copy-editing](skills/copy-editing/) | When the user wants to edit, review, or improve existing marketing copy, or refresh outdated content. Also use when the... |
 | [copywriting](skills/copywriting/) | When the user wants to write, rewrite, or improve marketing copy for any page, including homepage, landing pages,... |
 | [cro](skills/cro/) | When the user wants to optimize, improve, or increase conversions on any marketing page or form — including homepage,... |
@@ -109,6 +105,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | [marketing-loops](skills/marketing-loops/) | When the user wants to set up a recurring, self-running marketing workflow — a repeatable loop an AI agent runs on a... |
 | [marketing-plan](skills/marketing-plan/) | When the user needs a comprehensive marketing plan for a client, a company they advise, or their own product. Also use... |
 | [marketing-psychology](skills/marketing-psychology/) | When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when... |
+| [mercado-brasil](skills/mercado-brasil/) | Camada de adaptação ao mercado brasileiro. Use SEMPRE junto com qualquer outra skill de marketing quando o público, a... |
 | [offers](skills/offers/) | When the user wants to design, construct, or improve an offer — the thing they actually sell — including value framing,... |
 | [onboarding](skills/onboarding/) | When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also... |
 | [paywalls](skills/paywalls/) | When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use... |
@@ -128,6 +125,12 @@ See each skill's **Related Skills** section for the full dependency map.
 | [site-architecture](skills/site-architecture/) | When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL structure, or internal... |
 | [sms](skills/sms/) | When the user wants to plan, build, or optimize SMS, MMS, or WhatsApp marketing — including welcome flows, abandoned... |
 | [social](skills/social/) | When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram,... |
+| [trafego-analise-criativa](skills/trafego-analise-criativa/) | Agente 3 da equipe de tráfego pago: avalia criativos estáticos (imagens e carrosséis) de Meta Ads e Google Ads,... |
+| [trafego-arquiteto-campanha](skills/trafego-arquiteto-campanha/) | Agente 4 da equipe de tráfego pago: desenha a estrutura de campanhas de Meta Ads e Google Ads (objetivos, conjuntos,... |
+| [trafego-auditor](skills/trafego-auditor/) | Agente 2 da equipe de tráfego pago: faz o diagnóstico técnico de contas de Meta Ads e Google Ads e entrega o Laudo de... |
+| [trafego-diagnostico](skills/trafego-diagnostico/) | Agente 1 da equipe de tráfego pago: entrevista o cliente ou o gestor de tráfego e monta o Dossiê do Cliente... |
+| [trafego-espiao-concorrente](skills/trafego-espiao-concorrente/) | Agente 5 da equipe de tráfego pago: analisa concorrentes diretos e referências de mercado (anúncios, ofertas, sites,... |
+| [trafego-plano-acao](skills/trafego-plano-acao/) | Agente 6 da equipe de tráfego pago: consolida Dossiê, Auditoria, Análise Criativa, Arquitetura e Inteligência... |
 | [video](skills/video/) | When the user wants to create, generate, or produce video content using AI tools or programmatic frameworks. Also use... |
 <!-- SKILLS:END -->
 
